@@ -1,0 +1,14 @@
+div{
+    background-color: aqua;
+    max-height: 10vh;
+    max-width: 40vw;
+    color: brown;
+}
+.dark{
+    background-color: black;
+    color: blue;
+}
+.light{
+    background-color: aliceblue;
+    color: black;
+}
